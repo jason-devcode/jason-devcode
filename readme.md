@@ -13,11 +13,10 @@
 
 ## 🧠 About Me
 
-- 🎮 Building games and engines from scratch — no shortcuts, no engines handed to me
-- 🖥️ Obsessed with **real-time rendering**, OpenGL, and how pixels actually get to the screen
 - 🔧 I enjoy building dev tools and cross-platform utilities that actually solve problems
+- 🎮 Building games and engines
+- 🖥️ Obsessed with **real-time rendering**, OpenGL, and how pixels actually get to the screen
 - 📐 Currently deep-diving into **OpenGL 3.3 Core**, GLSL shaders, and pseudo-3D rendering techniques
-- 🌎 Based in Colombia 🇨🇴
 
 ---
 
