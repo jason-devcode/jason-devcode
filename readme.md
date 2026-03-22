@@ -1,29 +1,34 @@
 <div align="center">
 
 # Hey, I'm Jason 👋
-### Full Stack · Desktop & Mobile · Game Dev · Software Engineer · Mathematician
 
-*I build web platforms, desktop apps, games, and industrial tech solutions —*
-*and I accelerate everything with AI.*
+### Software Engineer · Full Stack · Desktop & Mobile · Game Dev · Mathematician
 
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+*I design and build technology solutions for enterprises and industries —*
+*from robust backend systems to real-time graphics engines,*
+*accelerating every product with cutting-edge AI.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=jason-devcode&color=blueviolet&style=flat-square)](https://github.com/jason-devcode)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=commits,prs,issues,reviews,discussions_started,prs_merged_percentage&rank_icon=percentile)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jason-devcode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
 ---
 
-## About Me
+## 🏭 What I Do
 
-- 🌐 **Full Stack Developer** — from pixel-perfect frontends to robust backend APIs
-- 🖥️ **Desktop & Mobile** — cross-platform apps built for performance and usability
-- 🏭 **Enterprise & Industrial Solutions** — I design and build tech that solves real business problems
-- 🎮 **Game Developer** — engines, renderers, and gameplay systems from scratch
-- 📐 **Mathematician** — strong foundation in applied math driving better software design
-- 🤖 **AI-Powered Development** — I integrate AI tools to accelerate product building and delivery
-- 🖧 Obsessed with **real-time rendering**, OpenGL, GLSL shaders, and low-level graphics
-
+- 🏢 **Enterprise & Industrial Software** — I architect and deliver end-to-end technology solutions that drive operational efficiency, automation, and digital transformation for businesses and industries
+- 🌐 **Full Stack Development** — scalable web platforms, REST & GraphQL APIs, SaaS products, and high-performance frontends
+- 🖥️ **Desktop & Mobile Apps** — cross-platform applications built for performance and usability across all environments
+- 🤖 **AI-Augmented Products** — I integrate AI into every layer of the stack to accelerate delivery, automate workflows, and enhance user experience
+- 🎮 **Game Development** — engines, real-time renderers, and gameplay systems built from scratch
+- 📐 **Applied Mathematics** — strong mathematical foundation applied to algorithms, simulations, and data-driven systems
+- 🖧 **Low-Level & Graphics Programming** — OpenGL, GLSL shaders, and real-time rendering pipelines
 
 ---
 
@@ -31,10 +36,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**GUB.js**](https://github.com/jason-devcode/GUB.js) | Game engine for JavaScript games | `JavaScript` |
 | [**gub_game_engine**](https://github.com/jason-devcode/gub_game_engine) | Custom game engine built from scratch | `C` |
-| [**CGraphicsApp**](https://github.com/jason-devcode/CGraphicsApp) | Graphics note app for Android | `Java` |
+| [**GUB.js**](https://github.com/jason-devcode/GUB.js) | Game engine for JavaScript games | `JavaScript` |
 | [**CrossXP-UI-Library**](https://github.com/jason-devcode/CrossXP-UI-Library) | Cross-platform UI component library | `C++` |
+| [**CGraphicsApp**](https://github.com/jason-devcode/CGraphicsApp) | Graphics note app for Android | `Java` |
 | [**FlashTopics**](https://github.com/jason-devcode/FlashTopics) | Flashcard-based learning app | `JavaScript` |
 | [**RevApk-Toolkit**](https://github.com/jason-devcode/RevApk-Toolkit) | APK reverse engineering toolkit | `Shell` |
 
@@ -79,9 +84,18 @@
 **Graphics & Rendering**
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-1C4E80?style=flat-square&logo=simple-icons&logoColor=white)
+![Allegro](https://img.shields.io/badge/Allegro-333333?style=flat-square&logo=simple-icons&logoColor=white)
+![X11](https://img.shields.io/badge/X11-F48024?style=flat-square&logo=x.org&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-**AI & Productivity**
+**AI Tools**
 
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
@@ -91,11 +105,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-
-</div>
 
 ---
 
