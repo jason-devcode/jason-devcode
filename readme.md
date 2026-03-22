@@ -6,13 +6,20 @@
 *I build web platforms, desktop apps, games, and industrial tech solutions —*
 *and I accelerate everything with AI.*
 
+
+<div align="center">
+
+![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-devcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 [![Profile views](https://komarev.com/ghpvc/?username=jason-devcode&color=blueviolet&style=flat-square)](https://github.com/jason-devcode)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🌐 **Full Stack Developer** — from pixel-perfect frontends to robust backend APIs
 - 🖥️ **Desktop & Mobile** — cross-platform apps built for performance and usability
@@ -21,7 +28,7 @@
 - 📐 **Mathematician** — strong foundation in applied math driving better software design
 - 🤖 **AI-Powered Development** — I integrate AI tools to accelerate product building and delivery
 - 🖧 Obsessed with **real-time rendering**, OpenGL, GLSL shaders, and low-level graphics
-- 🌎 Based in Colombia 🇨🇴
+
 
 ---
 
@@ -29,10 +36,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**GUB.js**](https://github.com/jason-devcode/GUB.js) | Game engine for JavaScript games | `JavaScript` |
 | [**gub_game_engine**](https://github.com/jason-devcode/gub_game_engine) | Custom game engine built from scratch | `C` |
 | [**CGraphicsApp**](https://github.com/jason-devcode/CGraphicsApp) | Graphics note app for Android | `Java` |
 | [**CrossXP-UI-Library**](https://github.com/jason-devcode/CrossXP-UI-Library) | Cross-platform UI component library | `C++` |
-| [**GUB.js**](https://github.com/jason-devcode/GUB.js) | Game engine for JavaScript games | `JavaScript` |
 | [**FlashTopics**](https://github.com/jason-devcode/FlashTopics) | Flashcard-based learning app | `JavaScript` |
 | [**RevApk-Toolkit**](https://github.com/jason-devcode/RevApk-Toolkit) | APK reverse engineering toolkit | `Shell` |
 
@@ -42,12 +49,12 @@
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ASM](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
@@ -92,13 +99,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-devcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
