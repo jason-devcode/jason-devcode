@@ -11,8 +11,6 @@
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-devcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 [![Profile views](https://komarev.com/ghpvc/?username=jason-devcode&color=blueviolet&style=flat-square)](https://github.com/jason-devcode)
 
 </div>
