@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jason 👋
+# Hi, I'm Jason 👋
 
 ### Software Engineer · Full Stack · Desktop & Mobile · Game Dev · Mathematician
 
@@ -13,8 +13,6 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=commits,prs,issues,reviews,discussions_started,prs_merged_percentage&rank_icon=percentile)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jason-devcode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -107,18 +105,5 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 🔥 Current Focus
-
-```
-📌  opengl_practices    →  Shaders, floor rendering, sprite systems
-📌  EasyMathTraining    →  Math learning tools with AI integration
-```
-
----
-
-<div align="center">
-
-*"The best way to understand how something works is to build it yourself."*
 
 </div>
