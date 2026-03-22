@@ -6,9 +6,6 @@
 *I build web platforms, desktop apps, games, and industrial tech solutions —*
 *and I accelerate everything with AI.*
 
-
-<div align="center">
-
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 [![Profile views](https://komarev.com/ghpvc/?username=jason-devcode&color=blueviolet&style=flat-square)](https://github.com/jason-devcode)
