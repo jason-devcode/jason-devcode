@@ -4,8 +4,6 @@
 *from robust backend systems to real-time graphics engines,*
 *accelerating every product with cutting-edge AI.*
 
-<image-card alt="Metrics" src="https://metrics.lecoq.io/jason-devcode?template=classic&activity=1&issues=1&prs=1" ></image-card>
-
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged_percentage)
 
 ---
