@@ -4,13 +4,7 @@
 *from robust backend systems to real-time graphics engines,*
 *accelerating every product with cutting-edge AI.*
 
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started)
-
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=commits,prs,issues,reviews,discussions_started,prs_merged_percentage&rank_icon=percentile)
-
+![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-devcode&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)
 
 ---
 
