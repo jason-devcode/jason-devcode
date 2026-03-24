@@ -29,6 +29,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Easy Math Notes Web**](https://github.com/jason-devcode/easy-math-notes-web) | Toma apuntes de matemáticas a mano y conviértelos a LaTeX **instantáneamente** con IA | `JavaScript`, `ONNX Runtime Web` |
 | [**gub_game_engine**](https://github.com/jason-devcode/gub_game_engine) | Custom game engine built from scratch | `C` |
 | [**GUB.js**](https://github.com/jason-devcode/GUB.js) | Game engine for JavaScript games | `JavaScript` |
 | [**CrossXP-UI-Library**](https://github.com/jason-devcode/CrossXP-UI-Library) | Cross-platform UI component library | `C++` |
