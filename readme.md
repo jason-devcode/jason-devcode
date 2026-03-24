@@ -13,15 +13,15 @@
 
 ---
 
-## 🏭 What I Do
+## What I Do
 
-- 🏢 **Enterprise & Industrial Software** — I architect and deliver end-to-end technology solutions that drive operational efficiency, automation, and digital transformation for businesses and industries
-- 🌐 **Full Stack Development** — scalable web platforms, REST & GraphQL APIs, SaaS products, and high-performance frontends
-- 🖥️ **Desktop & Mobile Apps** — cross-platform applications built for performance and usability across all environments
-- 🤖 **AI-Augmented Products** — I integrate AI into every layer of the stack to accelerate delivery, automate workflows, and enhance user experience
-- 🎮 **Game Development** — engines, real-time renderers, and gameplay systems built from scratch
-- 📐 **Applied Mathematics** — strong mathematical foundation applied to algorithms, simulations, and data-driven systems
-- 🖧 **Low-Level & Graphics Programming** — OpenGL, GLSL shaders, and real-time rendering pipelines
+- **Enterprise & Industrial Software** — I architect and deliver end-to-end technology solutions that drive operational efficiency, automation, and digital transformation for businesses and industries
+- **Full Stack Development** — scalable web platforms, REST & GraphQL APIs, SaaS products, and high-performance frontends
+- **Desktop & Mobile Apps** — cross-platform applications built for performance and usability across all environments
+- **AI-Augmented Products** — I integrate AI into every layer of the stack to accelerate delivery, automate workflows, and enhance user experience
+- **Game Development** — engines, real-time renderers, and gameplay systems built from scratch
+- **Applied Mathematics** — strong mathematical foundation applied to algorithms, simulations, and data-driven systems
+- **Low-Level & Graphics Programming** — OpenGL, GLSL shaders, and real-time rendering pipelines
 
 ---
 
