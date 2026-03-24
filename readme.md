@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -78,7 +78,6 @@
 **Graphics & Rendering**
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-1C4E80?style=flat-square&logo=simple-icons&logoColor=white)
 ![Allegro](https://img.shields.io/badge/Allegro-333333?style=flat-square&logo=simple-icons&logoColor=white)
 ![X11](https://img.shields.io/badge/X11-F48024?style=flat-square&logo=x.org&logoColor=white)
